@@ -4,117 +4,46 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=8b949e&center=true&vCenter=true&width=620&lines=Backend+systems.+AI+workflows.+Automation+at+scale." alt="typing" />
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/Michael-Gichamu/Michael-Gichamu/main/assets/code-galaxy.svg" width="100%" alt="orbital tech constellation" />
-
 </div>
 
 ## Tech Stack
 
-<p align="center"><sub><b>AI&nbsp;ENGINEERING</b></sub></p>
-<p align="center">
-  <img height="30" src="https://cdn.simpleicons.org/langchain/ffffff" title="LangChain" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/openai/ffffff" title="OpenAI" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/anthropic/D97757" title="Claude" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/n8n/EA4B71" title="n8n" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/make/6D00CC" title="Make" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/huggingface/FFD21E" title="Hugging Face" />
-  &nbsp;&nbsp;
-  <code>LangGraph</code>
-  &nbsp;
-  <code>LangSmith</code>
-  &nbsp;
-  <code>Claude&nbsp;Code</code>
-</p>
+<div align="center">
 
-<p align="center"><sub><b>RAG&nbsp;&amp;&nbsp;AI&nbsp;INFRASTRUCTURE</b></sub></p>
-<p align="center">
-  <code>RAG</code>
-  &nbsp;
-  <code>ChromaDB</code>
-  &nbsp;
-  <code>Embeddings</code>
-  &nbsp;
-  <code>Vector&nbsp;Search</code>
-  &nbsp;
-  <code>Document&nbsp;Ingestion</code>
-  &nbsp;
-  <code>Prompt&nbsp;Engineering</code>
-  &nbsp;
-  <code>LLM&nbsp;Evaluation</code>
-</p>
+<img src="https://raw.githubusercontent.com/Michael-Gichamu/Michael-Gichamu/main/assets/tech-3d.svg" width="100%" alt="3D rotating tech pedestals" />
 
-<p align="center"><sub><b>PROGRAMMING&nbsp;&amp;&nbsp;APIs</b></sub></p>
-<p align="center">
-  <img height="30" src="https://cdn.simpleicons.org/python/3776AB" title="Python" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/javascript/F7DF1E" title="JavaScript" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" title="Node.js" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/express/ffffff" title="Express" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/fastapi/009688" title="FastAPI" />
-  &nbsp;&nbsp;
-  <code>SQL</code>
-  &nbsp;
-  <code>REST</code>
-  &nbsp;
-  <code>SQLAlchemy</code>
-  &nbsp;
-  <code>Alembic</code>
-</p>
+</div>
 
-<p align="center"><sub><b>DATABASES</b></sub></p>
-<p align="center">
-  <img height="30" src="https://cdn.simpleicons.org/postgresql/4169E1" title="PostgreSQL" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/mongodb/47A248" title="MongoDB" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/mysql/4479A1" title="MySQL" />
-  &nbsp;&nbsp;
-  <code>ChromaDB</code>
-</p>
-
-<p align="center"><sub><b>CLOUD&nbsp;&amp;&nbsp;DEVOPS</b></sub></p>
-<p align="center">
-  <img height="30" src="https://cdn.simpleicons.org/googlecloud/4285F4" title="Google Cloud" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/docker/2496ED" title="Docker" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/git/F05032" title="Git" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/linux/FCC624" title="Linux" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/nginx/009639" title="Nginx" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/digitalocean/0080FF" title="DigitalOcean" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/pytest/0A9EDC" title="pytest" />
-  &nbsp;&nbsp;
-  <code>CI/CD</code>
-</p>
-
-<p align="center"><sub><b>FRONTEND</b></sub></p>
-<p align="center">
-  <img height="30" src="https://cdn.simpleicons.org/react/61DAFB" title="React" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/redux/764ABC" title="Redux" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/html5/E34F26" title="HTML5" />
-  &nbsp;
-  <img height="30" src="https://cdn.simpleicons.org/css3/1572B6" title="CSS3" />
-</p>
+<p align="center"><sub>
+Also working with&nbsp;&nbsp;·&nbsp;&nbsp;
+<code>LangGraph</code>&nbsp;
+<code>LangSmith</code>&nbsp;
+<code>Claude&nbsp;Code</code>&nbsp;
+<code>RAG</code>&nbsp;
+<code>ChromaDB</code>&nbsp;
+<code>Embeddings</code>&nbsp;
+<code>Vector&nbsp;Search</code>&nbsp;
+<code>Hugging&nbsp;Face</code>&nbsp;
+<code>Make</code>&nbsp;
+<code>Express</code>&nbsp;
+<code>SQLAlchemy</code>&nbsp;
+<code>Alembic</code>&nbsp;
+<code>MySQL</code>&nbsp;
+<code>Redux</code>&nbsp;
+<code>HTML5</code>&nbsp;
+<code>CSS3</code>&nbsp;
+<code>Linux</code>&nbsp;
+<code>Nginx</code>&nbsp;
+<code>DigitalOcean</code>&nbsp;
+<code>pytest</code>&nbsp;
+<code>CI/CD</code>&nbsp;
+<code>REST</code>&nbsp;
+<code>SQL</code>
+</sub></p>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Michael-Gichamu/Michael-Gichamu/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-Gichamu&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=a5d6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Engineering%20Activity&title_color=58a6ff" width="100%" alt="Contribution activity" />
 
 </div>
 
